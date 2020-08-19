@@ -1,5 +1,0 @@
-//this is a global variables
-{
-  "mongoURI": "mongodb+srv://quang:Quang310587@contactkeeper.8v40t.mongodb.net/contact-keeper?retryWrites=true&w=majority",
-  "jwtSecret": "jwt_secret"
-}

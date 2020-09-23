@@ -6,7 +6,7 @@ const Users = require("../model/Users");
 const bcrypt = require("bcryptjs");
 const config = require("config");
 const jwt = require("jsonwebtoken");
-const {check, validationResult} = require("express-validator/check");
+const {check, validationResult} = require("express-validator");
 //@GET  GET api/auth
 //@desc GET user logged in
 //@access Private
